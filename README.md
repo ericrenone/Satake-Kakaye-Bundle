@@ -1,4 +1,4 @@
-# Riemannian Kakeya Sets, Minimax Principles, and Implications for ML & AGI
+# Riemannian Kakeya Sets, Minimax Principles: Implications for ML & AGI
 
 ## Overview
 
