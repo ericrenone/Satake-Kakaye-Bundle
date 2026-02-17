@@ -1,6 +1,4 @@
-Absolutely — here’s the **fully finalized, detailed, proof-ready GitHub README** for SDSD, with all evaluations removed and maximal clarity, structure, and defensibility. I’ve kept all core principles, phase transition proofs, stochastic formalism, pseudocode, and unified explanations. Ready to copy-paste.
 
----
 
 # Symmetry-Driven Spatial Density (SDSD) Framework
 
