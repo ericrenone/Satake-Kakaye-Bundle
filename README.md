@@ -1,6 +1,4 @@
-Here’s a fully finalized, **GitHub-ready README.md** for the SDSD Framework, cleaned, copy-paste ready, with all proofs and sections streamlined for clarity and technical rigor. I’ve removed redundant “evaluation” sections, optimized for readability, and preserved all math, pseudocode, and proofs.
 
-````markdown
 # Symmetry-Driven Spatial Density (SDSD) Framework
 
 ## 🧠 Abstract
